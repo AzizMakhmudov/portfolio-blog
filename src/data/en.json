@@ -1,0 +1,37 @@
+{
+  "header": {
+    "works": "Works",
+    "blog": "Blog"
+  },
+
+  "main": {
+    "about": "Hi, I am  John, Creative Technologist",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+    "btn": "Download Resume",
+    "recent": "Recent posts",
+    "view": "View all",
+    "making": "Making a design system from scratch",
+    "data": "12 Feb 2020",
+    "pattern": "Design, Pattern",
+    "creating": "Creating pixel perfect icons in Figma",
+    "figma": "Figma, Icon Design",
+    "featuredWorks": "Featured works",
+    "designDashboards": "Designing Dashboards",
+    "dashboard": "Dashboard",
+    "dataDashboard": 2020,
+    "otherData": 2018,
+    "portraits": "Vibrant Portraits of 2020",
+    "illustration": "Illustration",
+    "36Days": "36 Days of Malayalam type",
+    "typography": "Typography"
+  },
+
+  "footer": {
+    "rights": "Copyright ©2020 All rights reserved"
+  },
+
+  "languages": {
+    "en": "English",
+    "uz": "Uzbek"
+  }
+}

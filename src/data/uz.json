@@ -1,0 +1,37 @@
+{
+  "header": {
+    "works": "Ishlar",
+    "blog": "Blog"
+  },
+
+  "main": {
+    "about": "Salom, men Jon, Ijodiy Texnologman",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+    "btn": "Rezyumeni Yuklash",
+    "recent": "Oxirgi xabarlar",
+    "view": "Hammasini ko'rish",
+    "making": "Noldan dizayn tizimini yaratish",
+    "data": "12 Fevral 2020",
+    "pattern": "Dizayn, Naqsh",
+    "creating": "Figma-da mukammal pikselli piktogramma yaratish",
+    "figma": "Figma, Icon Dizayni",
+    "featuredWorks": "Tanlangan asarlar",
+    "designDashboards": "Boshqaruv panellarini loyihalash",
+    "dashboard": "Boshqaruv paneli",
+    "dataDashboard": 2020,
+    "otherData": 2018,
+    "portraits": "2020-yilning jonli portretlari",
+    "illustration": "Tasvir",
+    "36Days": "Malayalam tipidagi 36 kun",
+    "typography": "Tipografiya"
+  },
+
+  "footer": {
+    "rights": "Copyright © 2020 Barcha huquqlar himoyalangan"
+  },
+
+  "languages": {
+    "en": "Inglizcha",
+    "uz": "O'zbekcha"
+  }
+}

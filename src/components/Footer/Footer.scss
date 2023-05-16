@@ -1,0 +1,24 @@
+.footer {
+  margin-top: 83px;
+
+  &__list {
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    margin-bottom: 36px;
+  }
+  &__info {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #21243d;
+    text-align: center;
+  }
+  &__box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
